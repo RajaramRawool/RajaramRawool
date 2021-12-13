@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RajaramRawool
-- 👀 I’m interested in Web Developement
-- 🌱 I’m currently learning Html5, CSS3
+- 👀 I’m interested in Software Development
+- 🌱 I’m currently learning Java, Kotlin
 
 
